@@ -1,0 +1,8 @@
+*.cmd
+*.o
+*.symvers
+*.ko
+*.mod.c
+*.mod
+*.order
+userspace_app
